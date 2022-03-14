@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @ShadowHawks
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on various softwares 
-- 📫 How to reach me is through dms
+- 💞️ I’m looking to collaborate on various software projects
+- 📫 Just dm me if you want to talk
+
+This is mainly my place of dropping my side projects
 
 <!---
 ShadowHawks/ShadowHawks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
