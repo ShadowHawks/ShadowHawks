@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>Click Counter</title>
+</head>
+<body>
+<input type="number" id="Thanos" value="1">
+<script type="text/javascript">
+var clicks = 0;
+function onClick() {
+clicks += Number(document.getElementById("Thanos").value);
+document.getElementById("clicks").innerHTML = clicks;
+};
+function offClick() {
+clicks -= Number(document.getElementById("Thanos").value);
+document.getElementById("clicks").innerHTML = clicks;
+};
+</script>
+     <button type="button" onClick="onClick()">Click Counter</button>
+    <p>Clicks: <a id="clicks">0</a></p>
+<button type="button" onClick="offClick()">Click Decrease</button>
+</body>
+</html>
+
