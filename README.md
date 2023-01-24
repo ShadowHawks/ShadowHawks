@@ -1,6 +1,6 @@
  👋 Hi, I’m @ShadowHawks
  I’m interested in Software Development
- I’m currently learning C++ and trying to improve my HTML, CSS, JS, and JAVA skills
+ I’m currently learning Python and trying to improve my HTML, CSS, JS, and JAVA skills
  I’m looking to collaborate on various software projects
  Just dm me if you want to talk
 
