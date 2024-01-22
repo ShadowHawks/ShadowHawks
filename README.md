@@ -1,6 +1,7 @@
  👋 Hi, I’m @ShadowHawks
- I’m interested in Ethical Hacking
-Currently studying for Securit + and Network + certifications
+- I’m interested in Ethical Hacking
+-Currently studying for Securit + and Network + certifications
+
 
 
 <!---
