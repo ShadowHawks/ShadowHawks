@@ -1,10 +1,7 @@
  👋 Hi, I’m @ShadowHawks
- I’m interested in Software Development
- I’m currently learning Python and trying to improve my HTML, CSS, JS, and JAVA skills
- I’m looking to collaborate on various software projects
- Just dm me if you want to talk
+ I’m interested in Ethical Hacking
+Currently studying for Securit + and Network + certifications
 
-This is mainly my place of dropping my side projects
 
 <!---
 ShadowHawks/ShadowHawks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
