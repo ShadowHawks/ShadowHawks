@@ -1,6 +1,6 @@
 
 - I’m interested in Ethical Hacking
--Currently studying for Securit + and Network + certifications
+-Currently studying for Security + and Network + certifications
 
 
 
